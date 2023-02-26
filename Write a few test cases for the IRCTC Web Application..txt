@@ -1,0 +1,9 @@
+Test the login functionality by entering valid credentials and verifying that the user is successfully logged in to the IRCTC web application.
+
+Search for a train by entering the source and destination stations, date of travel, and class of travel, and verify that the search results show available trains with accurate timings and fares.
+
+Test the ticket booking functionality by selecting a train and entering passenger details, such as name, age, and gender, and verify that the booking process is successful.
+
+Verify that the "PNR Status" feature is working correctly by entering a valid PNR number and verifying that the status of the ticket is displayed accurately.
+
+Test the "Cancellation" feature by canceling a booked ticket and verifying that the cancellation process is easy to follow and the refund is processed correctly.

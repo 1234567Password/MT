@@ -1,0 +1,10 @@
+Test the flight booking functionality by searching for a flight by entering the source and destination cities, travel dates, and number of passengers, and verify that the search results show available flights with accurate timings and fares.
+
+Test the seat selection functionality by selecting a flight and choosing a preferred seat, and verify that the selected seat is booked correctly.
+
+Verify that the "Manage Booking" feature is working correctly by allowing users to make changes to their booking, such as changing the date of travel or adding baggage, and verifying that the changes are made correctly.
+
+Test the payment functionality by selecting a payment method and entering payment details, and verify that the payment is processed correctly and a confirmation is displayed.
+
+Test the "Web Check-in" feature by allowing users to check in online and select seats before arriving at the airport, and verify that the boarding pass is generated correctly and can be printed or downloaded.
+

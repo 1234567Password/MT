@@ -1,0 +1,19 @@
+Verify that the Amazon homepage loads correctly on a mobile device and that all page elements are properly formatted for a smaller screen.
+
+Search for a specific product using the search bar on a mobile device and verify that the search results are accurate and easy to read.
+
+Add a product to the cart using a mobile device and verify that the item is added correctly, including the correct product, price, and quantity.
+
+Proceed to checkout with a product in the cart using a mobile device and verify that the checkout process is easy to follow and all fields are properly formatted for a mobile device.
+
+Test the functionality of the "Wish List" feature on a mobile device by adding an item to a list, viewing the list, and removing the item from the list.
+
+Test the "Recommendations" feature by viewing recommended products based on previous searches and purchases on a mobile device.
+
+Verify that the "Amazon Prime" subscription service is functioning correctly on a mobile device, including the ability to sign up, view benefits, and access exclusive deals.
+
+Test the "Customer Service" feature by navigating to the help section on a mobile device, searching for a topic, and verifying that helpful information is provided.
+
+Verify that the "Returns and Refunds" process is easy to follow on a mobile device and provides clear instructions on how to return a product and receive a refund.
+
+Test the mobile version of the Amazon website by accessing the site from different mobile devices with various screen sizes and verifying that all features and functionality work correctly.

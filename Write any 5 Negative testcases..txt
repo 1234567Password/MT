@@ -1,0 +1,9 @@
+Attempt to send a message to a blocked contact and verify that the message is not delivered.
+
+Test the message encryption by attempting to send a message that includes unauthorized or prohibited content, such as hate speech or illegal activities, and verify that the message is blocked or not sent.
+
+Attempt to create a group with a name that includes prohibited content, such as hate speech or illegal activities, and verify that the group is not created.
+
+Test the video calling functionality by attempting to make a call to a contact that is not using WhatsApp or has the feature disabled, and verify that the call is not successful.
+
+Attempt to delete a message that has already been viewed by the recipient and verify that the message is not deleted or that the recipient is still able to view the message.

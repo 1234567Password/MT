@@ -1,0 +1,9 @@
+est the login functionality by entering valid credentials and verifying that the user is successfully logged in to the Redbus web application.
+
+Search for a bus by entering the source and destination cities, date of travel, and type of bus, and verify that the search results show available buses with accurate timings and fares.
+
+Test the ticket booking functionality by selecting a bus and entering passenger details, such as name, age, and gender, and verify that the booking process is successful.
+
+Verify that the "Ticket Cancellation" feature is working correctly by canceling a booked ticket and verifying that the cancellation process is easy to follow and the refund is processed correctly.
+
+Test the "Live Tracking" feature by entering the bus number or operator name and verifying that the real-time location and status of the bus is displayed accurately on the map.

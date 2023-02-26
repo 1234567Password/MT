@@ -1,0 +1,19 @@
+Verify that the Amazon homepage is loading correctly, including all of the page elements such as the search bar, navigation menu, and featured items.
+
+Search for a specific product on Amazon and ensure that the search results display accurately and include relevant products based on the search query.
+
+Add a product to the cart and verify that the item is added to the cart correctly, including the correct product, price, and quantity.
+
+Proceed to checkout with a product in the cart and ensure that the checkout process is straightforward and easy to follow, including entering shipping and payment information.
+
+Test the functionality of the "Wish List" feature by adding an item to a list, viewing the list, and removing the item from the list.
+
+Test the "Recommendations" feature by viewing recommended products based on previous searches and purchases.
+
+Verify that the "Amazon Prime" subscription service is functioning correctly, including the ability to sign up, view benefits, and access exclusive deals.
+
+Test the "Customer Service" feature by navigating to the help section, searching for a topic, and verifying that helpful information is provided.
+
+Verify that the "Returns and Refunds" process is easy to follow and provides clear instructions on how to return a product and receive a refund.
+
+Test the mobile version of the Amazon website by accessing the site from a mobile device and verifying that all features and functionality are working correctly.
